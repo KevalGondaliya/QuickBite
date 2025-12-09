@@ -1,0 +1,146 @@
+{
+  "restaurants": [
+    {
+      "id": "rest1",
+      "name": "Pizza Tower",
+      "zone": "Urban",
+      "rating": 4.6,
+      "cuisine": "Italian",
+      "menu": [
+        {
+          "id": "m101",
+          "name": "Pepperoni Pizza",
+          "description": "Classic pepperoni with mozzarella cheese",
+          "price": 499
+        },
+        {
+          "id": "m102",
+          "name": "Garlic Bread",
+          "description": "Cheesy garlic bread with herbs",
+          "price": 199
+        },
+        {
+          "id": "m103",
+          "name": "Margherita Pizza",
+          "description": "Fresh tomatoes, mozzarella, and basil",
+          "price": 449
+        },
+        {
+          "id": "m104",
+          "name": "Caesar Salad",
+          "description": "Fresh romaine lettuce with caesar dressing",
+          "price": 299
+        }
+      ]
+    },
+    {
+      "id": "rest2",
+      "name": "Bite Factory",
+      "zone": "Remote",
+      "rating": 3.9,
+      "cuisine": "Fast Food",
+      "menu": [
+        {
+          "id": "m241",
+          "name": "Smash Burger",
+          "description": "Double patty with special sauce",
+          "price": 299
+        },
+        {
+          "id": "m242",
+          "name": "French Fries",
+          "description": "Crispy golden fries",
+          "price": 149
+        },
+        {
+          "id": "m243",
+          "name": "Chicken Wings",
+          "description": "Spicy buffalo wings",
+          "price": 399
+        }
+      ]
+    },
+    {
+      "id": "rest3",
+      "name": "Sushi Express",
+      "zone": "Suburban",
+      "rating": 4.8,
+      "cuisine": "Japanese",
+      "menu": [
+        {
+          "id": "m301",
+          "name": "Salmon Sashimi",
+          "description": "Fresh salmon slices",
+          "price": 599
+        },
+        {
+          "id": "m302",
+          "name": "California Roll",
+          "description": "Crab, avocado, cucumber",
+          "price": 449
+        },
+        {
+          "id": "m303",
+          "name": "Miso Soup",
+          "description": "Traditional Japanese soup",
+          "price": 199
+        }
+      ]
+    },
+    {
+      "id": "rest4",
+      "name": "Curry House",
+      "zone": "Urban",
+      "rating": 4.4,
+      "cuisine": "Indian",
+      "menu": [
+        {
+          "id": "m401",
+          "name": "Butter Chicken",
+          "description": "Creamy tomato-based curry",
+          "price": 549
+        },
+        {
+          "id": "m402",
+          "name": "Naan Bread",
+          "description": "Fresh baked naan",
+          "price": 99
+        },
+        {
+          "id": "m403",
+          "name": "Biryani",
+          "description": "Fragrant basmati rice with spices",
+          "price": 449
+        }
+      ]
+    },
+    {
+      "id": "rest5",
+      "name": "Taco Fiesta",
+      "zone": "Suburban",
+      "rating": 4.2,
+      "cuisine": "Mexican",
+      "menu": [
+        {
+          "id": "m501",
+          "name": "Beef Tacos",
+          "description": "Seasoned beef with salsa",
+          "price": 349
+        },
+        {
+          "id": "m502",
+          "name": "Guacamole",
+          "description": "Fresh avocado dip",
+          "price": 249
+        },
+        {
+          "id": "m503",
+          "name": "Quesadilla",
+          "description": "Cheese and chicken quesadilla",
+          "price": 399
+        }
+      ]
+    }
+  ]
+}
+
