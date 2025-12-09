@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.quickbite"
+    namespace = "com.quickbite"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
